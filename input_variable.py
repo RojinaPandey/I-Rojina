@@ -1,0 +1,8 @@
+a = int(input("Enter a value of a: "))
+b = int(input("Enter a value of b: "))
+# print("Multiply",a*b)
+# print("Add",a+b)
+# print("Sub",a-b)
+# print("Div",a/b)
+# print("Mod",a%b)
+print(f"add {a+b}, {a-b}, {a/b}, {a%b}")
